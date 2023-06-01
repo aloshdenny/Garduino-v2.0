@@ -1,0 +1,16 @@
+- Arduino to PC : Serial connection
+- PC to website : Normal django(static), Rest API(dynamic) (done!)
+- Model camera to Website: Use the url and livestream
+- Model results to Website: On lap or API (done)
+
+- Not change the previous values of API (done)
+- Connect the OpenCV camera to django website (use the url)
+- Change the dials of the circle (done)
+- Sundown and next spray time dynamics
+- Website details and imgs update
+- Mobile responsiveness (not doing, done little)
+- Status and fertilizer level dynamics (harware won't work)
+- PPT 
+- Check if online is working and change link
+- Organize pyserial.py (only finally)
+- Write README.md and commit to Git
