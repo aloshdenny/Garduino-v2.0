@@ -23,13 +23,13 @@
 
 ## Garduino v2.0 : The Upgrade
 
+<img src="GarduinoV2/static/main/assets/imgs/Garduino.jpeg" width=250 height=400>
+
 They realised farming wasn't limited to Earth and began to explore extraplanetary solutions.
 
 <br>
 
 ## Garduino v3.0: Asking too much?
-
-![image]()
 
 The final iteration of the Garduino project, that will terraform Mars bit by bit.
 
