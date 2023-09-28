@@ -10,6 +10,9 @@
 
 <br>
 
+# [Youtube Link](https://youtu.be/CUlLc_mFOrE)
+#[Devfolio Link](https://devfolio.co/projects/garduino-v-abd8)
+
 ## Garduino v1.0 : The Precursor
 
 <img src="GarduinoV2/static/main/assets/imgs/img-1.jpg" width=250 height=400>
@@ -20,7 +23,7 @@
 
 ## Garduino v2.0 : The Upgrade
 
-![image]()
+<img src=
 
 They realised farming wasn't limited to Earth and began to explore extraplanetary solutions.
 
