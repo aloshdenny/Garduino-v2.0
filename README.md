@@ -11,7 +11,7 @@
 <br>
 
 # [Youtube Link](https://youtu.be/CUlLc_mFOrE)
-#[Devfolio Link](https://devfolio.co/projects/garduino-v-abd8)
+# [Devfolio Link](https://devfolio.co/projects/garduino-v-abd8)
 
 ## Garduino v1.0 : The Precursor
 
