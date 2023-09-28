@@ -23,8 +23,6 @@
 
 ## Garduino v2.0 : The Upgrade
 
-<img src=
-
 They realised farming wasn't limited to Earth and began to explore extraplanetary solutions.
 
 <br>
